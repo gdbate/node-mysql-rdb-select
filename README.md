@@ -1,2 +1,2 @@
 # node-mysql-rdb-select
-Query builder for node mysql.
+Relational database query builder for node mysql.
